@@ -1,0 +1,871 @@
+header {
+  width: 100%;
+}
+
+header nav {
+  padding: 25px 0px;
+}
+
+header nav .nan {
+  padding: 25px 0px;
+}
+
+header nav .nan p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #747474;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+header nav .nan a {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  color: black;
+  text-align: left;
+}
+
+header nav .bars {
+  width: 30px;
+  height: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+header nav .bars:hover {
+  border-color: #086cf9;
+  color: #086cf9;
+}
+
+header nav .bars .fa {
+  font-size: 16px;
+}
+
+header nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+header nav ul li {
+  margin: 0px 20px;
+}
+
+header nav ul li a {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  color: black;
+  text-align: left;
+}
+
+header .headerTitle {
+  width: 100%;
+}
+
+header .headerTitle .img {
+  text-align: center;
+}
+
+header .headerTitle .ddd {
+  width: 100%;
+  height: 650px;
+}
+
+header .headerTitle .box {
+  margin-top: 20%;
+  text-align: left;
+}
+
+header .headerTitle .box h1 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 60px;
+  color: black;
+}
+
+header .headerTitle .box h2 {
+  font-size: 49px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 1px;
+  color: black;
+  margin-top: 5px;
+}
+
+header .headerTitle .box img {
+  margin-top: 90px;
+}
+
+main {
+  width: 100%;
+  margin-top: 100px;
+}
+
+main .car {
+  text-align: center;
+}
+
+main .car p {
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 32px;
+  color: black;
+}
+
+main .car span {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 1px;
+  color: black;
+}
+
+main .car img {
+  margin-top: 48px;
+}
+
+main .left {
+  margin-top: 110px;
+  text-align: left;
+}
+
+main .left h1 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72px;
+  color: black;
+}
+
+main .left h2 {
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 72px;
+  letter-spacing: 1px;
+  margin-top: 3px;
+  color: #000;
+}
+
+main .left p {
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 25px;
+  margin-top: 30px;
+  color: #747474;
+}
+
+main .card {
+  margin-top: 300px;
+  margin-left: 20%;
+  text-align: left;
+}
+
+main .card h4 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  border-bottom: 1px solid #000;
+  padding-bottom: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+main .card p {
+  padding-top: 20px;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.work {
+  width: 100%;
+  margin-top: 150px;
+}
+
+.work h1 {
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72px;
+  color: black;
+}
+
+.work .cal {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.work .cal img {
+  width: 100%;
+}
+
+.work .cal h3 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30px;
+  color: black;
+  margin-top: 40px;
+}
+
+.work .cal p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  margin-top: 2px;
+  color: #747474;
+}
+
+.work .kul {
+  margin-top: 120px;
+  text-align: center;
+}
+
+.work .kul img {
+  width: 100%;
+}
+
+.work .kul h3 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30px;
+  color: black;
+  margin-top: 40px;
+}
+
+.work .kul p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  margin-top: 2px;
+  color: #747474;
+}
+
+.center {
+  width: 100%;
+  margin-top: 120px;
+}
+
+.center .img {
+  text-align: right;
+}
+
+.center .img img {
+  width: 100%;
+}
+
+.center .mul {
+  margin-top: 5%;
+  text-align: left;
+}
+
+.center .mul h1 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 53px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: black;
+}
+
+.center .mul h4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-top: 40px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30px;
+  color: black;
+}
+
+.center .mul h4 span {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 1px;
+  color: black;
+  margin-left: 3px;
+}
+
+.center .mul p {
+  margin-top: 10px;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 25px;
+  color: black;
+}
+
+.what {
+  width: 100%;
+  margin-top: 110px;
+}
+
+.what .box {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.what .box p {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 1px;
+  color: black;
+  text-align: center;
+  margin: 30px 45px;
+}
+
+.what .box img {
+  width: 80px;
+  height: 80px;
+  margin: auto;
+}
+
+.what .box h5 {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  color: black;
+  margin-top: 20px;
+}
+
+.what .box p {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  color: black;
+}
+
+.pragrf {
+  width: 100%;
+  margin-top: 150px;
+  background-color: #000;
+}
+
+.pragrf h1 {
+  padding-top: 90px;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72px;
+  text-align: left;
+  color: white;
+}
+
+.pragrf h1 span {
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 72px;
+  letter-spacing: 1px;
+  color: white;
+}
+
+.pragrf p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  border-bottom: 3px solid #fff;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: white;
+}
+
+.pragrf p span {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: white;
+}
+
+.pragrf h5 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  padding-top: 15px;
+  color: white;
+  padding-bottom: 60px;
+}
+
+.pragrf .img {
+  text-align: right;
+}
+
+.pragrf .img img {
+  width: 100%;
+}
+
+.facts {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.facts h1 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 53px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: black;
+}
+
+.facts h1 span {
+  font-size: 37px;
+  font-weight: 400;
+  line-height: 53px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: black;
+}
+
+.facts .card {
+  margin-top: 50px;
+}
+
+.facts .card .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.facts .card .flex .end {
+  margin-left: 10px;
+}
+
+.facts .card p {
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 25px;
+  color: black;
+  margin-left: 15px;
+  text-align: left;
+}
+
+.bloc {
+  width: 100%;
+  margin-top: 150px;
+}
+
+.bloc h1 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72px;
+  color: black;
+}
+
+.bloc .img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+}
+
+.bloc .box {
+  margin-top: 90px;
+  text-align: left;
+}
+
+.bloc .box img {
+  width: 100%;
+}
+
+.bloc .box button {
+  padding: 7px 16px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-top: 45px;
+}
+
+.bloc .box button:hover {
+  cursor: pointer;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s;
+  background-color: black;
+  color: white;
+}
+
+.bloc .box h4 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+  color: black;
+  margin-top: 20px;
+}
+
+.bloc .box p {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-top: 30px;
+  color: #8F8F8F;
+}
+
+.bottom {
+  width: 100%;
+  margin-top: 120px;
+  background-color: black;
+  padding-bottom: 30px;
+}
+
+.bottom h1 {
+  color: white;
+  font-size: 66px;
+  font-weight: 400;
+  line-height: 94px;
+  letter-spacing: 1px;
+  text-align: left;
+  padding-top: 100px;
+}
+
+.bottom p {
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 25px;
+  padding-top: 30px;
+  text-align: left;
+  color: #FFFFFF80;
+  padding-bottom: 80px;
+}
+
+.bottom .img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+}
+
+footer {
+  width: 100%;
+  margin-top: 80px;
+}
+
+footer .flex {
+  text-align: right;
+}
+
+footer .flex img {
+  margin: 0px 5px;
+}
+
+footer ul li {
+  margin-top: 20px;
+}
+
+footer ul li a {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  color: black;
+}
+
+footer .bot button {
+  padding: 15px 30px;
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  background-color: black;
+  color: white;
+  border-radius: 40px;
+  text-align: left;
+}
+
+footer .bot button:hover {
+  cursor: pointer;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s;
+  background-color: white;
+  color: black;
+}
+
+body {
+  font-family: "Lato", "san-serif";
+}
+
+.activeBars {
+  display: none;
+}
+
+.activeMenuBars {
+  display: block;
+}
+
+h4.title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: 60px;
+  color: black;
+}
+
+p.text {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: 20px;
+  text-align: left;
+  color: #747474;
+}
+
+@media (max-width: 991px) {
+  header nav ul {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  header nav ul li {
+    padding-bottom: 5px;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 5px 0px;
+  }
+
+  main .car img {
+    width: 90%;
+  }
+
+  main .card {
+    margin-top: 150px;
+  }
+
+  .center .mul {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .center .mul h1 {
+    text-align: center;
+  }
+
+  .center .mul h4 {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .what {
+    display: none;
+  }
+
+  .facts .card .flex {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .facts .card p {
+    text-align: center;
+  }
+
+  .bloc h1 {
+    text-align: center;
+  }
+
+  .bloc .img {
+    margin-top: 30px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .bloc .box {
+    text-align: center;
+  }
+
+  .bottom h1 {
+    text-align: center;
+  }
+
+  .bottom p {
+    text-align: center;
+  }
+
+  .bottom .img {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .activeBars {
+    display: block;
+  }
+
+  .activeMenuBars {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  header nav .nan p {
+    display: none;
+  }
+
+  header .headerTitle .ddd {
+    width: 100%;
+    height: auto;
+  }
+
+  header .headerTitle .box h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  header .headerTitle .box h2 {
+    font-size: 25px;
+    line-height: 40px;
+  }
+
+  main .car p {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  main .car span {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  main .left h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  main .left h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  main .card {
+    margin-top: 50px;
+    margin-left: 0;
+  }
+
+  .work h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  .center .mul h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .center .mul h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .center .mul p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .pragrf h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .pragrf h1 span {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .facts .card .flex .end {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .bloc h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  .bottom h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  footer .img {
+    text-align: center;
+  }
+
+  footer .flex {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  footer ul li {
+    text-align: center;
+  }
+
+  footer .bot {
+    text-align: center;
+  }
+
+  h4.title {
+    text-align: center;
+  }
+
+  p.text {
+    text-align: center;
+  }
+}
